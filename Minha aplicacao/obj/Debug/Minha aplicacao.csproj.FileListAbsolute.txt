@@ -1,0 +1,6 @@
+C:\Users\tiago.lucas\Documents\SharpDevelop Projects\Minha_Aplicacao_DB\Minha aplicacao\obj\Debug\Minha aplicacao.csprojResolveAssemblyReference.cache
+C:\Users\tiago.lucas\Documents\SharpDevelop Projects\Minha_Aplicacao_DB\Minha aplicacao\bin\Debug\Minha aplicacao.exe.config
+C:\Users\tiago.lucas\Documents\SharpDevelop Projects\Minha_Aplicacao_DB\Minha aplicacao\bin\Debug\Minha aplicacao.exe
+C:\Users\tiago.lucas\Documents\SharpDevelop Projects\Minha_Aplicacao_DB\Minha aplicacao\bin\Debug\Minha aplicacao.pdb
+C:\Users\tiago.lucas\Documents\SharpDevelop Projects\Minha_Aplicacao_DB\Minha aplicacao\obj\Debug\Minha aplicacao.exe
+C:\Users\tiago.lucas\Documents\SharpDevelop Projects\Minha_Aplicacao_DB\Minha aplicacao\obj\Debug\Minha aplicacao.pdb
